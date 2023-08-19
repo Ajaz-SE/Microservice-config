@@ -2,7 +2,7 @@ Spring:
   application:
     name: config-dev
 
-eureka:
+eureka://hello
   instance: 
     prefer-ip-address: true
   client:
